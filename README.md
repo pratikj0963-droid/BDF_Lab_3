@@ -217,4 +217,8 @@ This project demonstrates REST API development using Node.js and Express.js, inc
 
 **Developed by Pratik Jadhav**  
 **Registration Number: 252U1R5055**  
+<<<<<<< Updated upstream
 **Section: S-10**
+=======
+**Section: S-10**
+>>>>>>> Stashed changes
